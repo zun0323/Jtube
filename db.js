@@ -4,7 +4,7 @@ export const video = [
     title: "Video awosome",
     description: "This something I love",
     views: 24,
-    video:
+    videofile:
       "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creater: {
       id: 121212,
@@ -17,7 +17,7 @@ export const video = [
     title: "Video cool",
     description: "This something I love",
     views: 24,
-    video:
+    videofile:
       "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creater: {
       id: 121212,
@@ -30,7 +30,7 @@ export const video = [
     title: "Video super",
     description: "This something I love",
     views: 24,
-    video:
+    videofile:
       "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creater: {
       id: 121212,
