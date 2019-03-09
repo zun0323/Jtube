@@ -1,4 +1,7 @@
 extends layout/main
 
 block content
-    p home
+    .video
+        each member in video
+            h1= member.title
+            video member.video
